@@ -1,0 +1,20 @@
+{
+  "notAvailable": [
+    "Registration Closed",
+    "Unavailable",
+    "Class Full",
+    "class full",
+    "unavailable"
+  ],
+  "available": [
+    "Register Now",
+    "registration available",
+    "morning classes",
+    "evening classes",
+    "Morning Classes",
+    "Evening Classes",
+    "Classes Available",
+    "register now",
+    "now"
+  ]
+}
